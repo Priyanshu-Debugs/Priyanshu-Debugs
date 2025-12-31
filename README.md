@@ -40,7 +40,7 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,c,html,css,react&theme=dark" alt="Languages"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,aws,gcp,docker,git,vscode,notion&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,aws,gcp,docker,git,vscode,notion&theme=dark" alt="Tools"/>
 </p>
 
 ---
