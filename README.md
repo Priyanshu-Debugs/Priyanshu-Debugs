@@ -44,7 +44,7 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -53,7 +53,7 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu-Debugs&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Streak"/>
 
 </div>
-
+-->
 ---
 
 ### 🐍 Contribution Graph
