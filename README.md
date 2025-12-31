@@ -43,7 +43,7 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,aws,gcp,docker,git,vscode,notion&theme=dark" alt="Tools"/>
 </p>
 
----
+<!-- --- -->
 <!--
 ### 📊 GitHub Stats
 
