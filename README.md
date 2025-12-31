@@ -1,19 +1,20 @@
 <!-- Hero Section -->
 <div align="center">
-  
-# Hey there! I'm Priyanshu Patel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%A4%96+Engineer;%E2%98%81%EF%B8%8F+Cloud+Computing+Enthusiast;%F0%9F%A7%A0+AI+Explorer+%26+Builder;%F0%9F%9A%80+Turning+Ideas+into+Reality" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D9488,100:06B6D4&height=150&section=header&text=Priyanshu%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+Engineer+%7C+AI+Builder+%7C+Cloud+Explorer;%3E+Crafting+Intelligence%2C+One+Model+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/Priyanshu-Debugs">
-  <img src="https://img.shields.io/badge/Engineer-Ahmedabad,_India_🇮🇳-A855F7?style=for-the-badge&labelColor=1a1a2e" alt="Location"/>
+  <img src="https://img.shields.io/badge/📍_Ahmedabad,_India-0D9488?style=for-the-badge&labelColor=0f172a" alt="Location"/>
 </a>
+<img src="https://img.shields.io/badge/💼_Open_to_Opportunities-06B6D4?style=for-the-badge&labelColor=0f172a" alt="Status"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Priyanshu-Debugs&label=Profile%20Visitors&color=A855F7&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-Debugs&label=Profile%20Visitors&color=0D9488&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -69,12 +70,12 @@ I'm a passionate **Engineer** from **Ahmedabad, Gujarat, India** 🇮🇳 who lo
 <div align="center">
 
 <a href="https://github.com/Priyanshu-Debugs/AgenticPilot">
-<img src="https://img.shields.io/badge/🤖_AgenticPilot-AI_Automation_Platform-A855F7?style=for-the-badge&labelColor=1a1a2e" alt="AgenticPilot"/>
+<img src="https://img.shields.io/badge/🤖_AgenticPilot-AI_Automation_Platform-0D9488?style=for-the-badge&labelColor=0f172a" alt="AgenticPilot"/>
 </a>
 
 **An intelligent AI automation platform that empowers businesses with autonomous agents**
 
-`AI Agents` `Automation` `Python` `Cloud Native`
+<img src="https://img.shields.io/badge/AI_Agents-0D9488?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Automation-06B6D4?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Python-0D9488?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Cloud_Native-06B6D4?style=flat-square" alt=""/>
 
 </div>
 
@@ -110,8 +111,10 @@ I'm a passionate **Engineer** from **Ahmedabad, Gujarat, India** 🇮🇳 who lo
 
 <div align="center">
 
-**💡 "The best way to predict the future is to create it with AI"**
+```
+⚡ "The best way to predict the future is to create it with AI" ⚡
+```
 
-<sub>Made with ❤️ by Priyanshu Patel</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:06B6D4&height=100&section=footer" width="100%"/>
 
 </div>
