@@ -3,12 +3,12 @@
   
 # Hey there! I'm Priyanshu Patel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%A4%96+Machine+Learning+Engineer;%E2%98%81%EF%B8%8F+Cloud+Computing+Enthusiast;%F0%9F%A7%A0+AI+Explorer+%26+Builder;%F0%9F%9A%80+Turning+Ideas+into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%A4%96+Engineer;%E2%98%81%EF%B8%8F+Cloud+Computing+Enthusiast;%F0%9F%A7%A0+AI+Explorer+%26+Builder;%F0%9F%9A%80+Turning+Ideas+into+Reality" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/Priyanshu-Debugs">
-  <img src="https://img.shields.io/badge/ML_Engineer-Ahmedabad,_India_🇮🇳-A855F7?style=for-the-badge&labelColor=1a1a2e" alt="Location"/>
+  <img src="https://img.shields.io/badge/Engineer-Ahmedabad,_India_🇮🇳-A855F7?style=for-the-badge&labelColor=1a1a2e" alt="Location"/>
 </a>
 
 <br/><br/>
@@ -20,42 +20,31 @@
 <br/>
 
 <!-- About Section -->
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ## 🎯 Who Am I?
 
-I'm a passionate **ML Engineer** from **Ahmedabad, Gujarat, India** 🇮🇳 who loves turning complex problems into elegant AI solutions.
+<img align="right" src="./Tony.gif" width="200" alt="Tony Stark Vibes"/>
+
+</div>
+
+I'm a passionate **Engineer** from **Ahmedabad, Gujarat, India** 🇮🇳 who loves turning complex problems into elegant AI solutions.
 
 🔬 **What I Do:**
 - Build intelligent AI automation systems
 - Explore cutting-edge ML/DL algorithms  
 - Deploy models on cloud platforms
 - Transform data into actionable insights
+- Debug code at 3 AM while questioning life choices 😅
 
 🎯 **Current Focus:**
 > Building **AgenticPilot** - An AI Automation Platform that empowers businesses with intelligent agents
 
+⚡ **Fun Fact:** I have the debugging skills of a detective 🕵️ and the patience of someone who's trained 1000 neural networks. Also, my humor is like my code — *sometimes it works, sometimes it doesn't, but it's always entertaining!* 😏
+
 📬 **Let's Talk:** [priyanshubpatel@gmail.com](mailto:priyanshubpatel@gmail.com)
 
-</td>
-<td width="50%">
-
-## 😉 My Humor Level
-
-<div align="center">
-<img src="https://media1.tenor.com/m/62gU3OOcLU0AAAAC/mr-bean-wink.gif" width="280" alt="Great Sense of Humor"/>
-
-*When the model finally converges after 100 epochs* 😏
-
-**Fun Fact:** I have a great sense of humor and I'm a curious learner who never stops exploring!
-
-</div>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
