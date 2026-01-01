@@ -29,7 +29,7 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
 - 🔭 Building **[AgenticPilot](https://github.com/Priyanshu-Debugs/AgenticPilot)** — AI Automation Platform
 - 🧠 Deep into **Machine Learning**, **Deep Learning** & **Cloud Computing**  
 - 💡 I believe in learning by building
-- ⚡ Fun fact: My humor is like my code — *sometimes it works, sometimes it doesn't!*
+- ⚡ Fun fact: I would tell you a joke about UDP, but you might not get it.
 
 <br clear="right"/>
 
@@ -43,7 +43,7 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,aws,gcp,docker,git,vscode,notion&theme=dark" alt="Tools"/>
 </p>
 
-<!-- --- -->
+---
 <!--
 ### 📊 GitHub Stats
 
@@ -53,9 +53,9 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu-Debugs&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Streak"/>
 
 </div>
--->
----
 
+---
+-->
 ### 🐍 Contribution Graph
 
 <div align="center">
