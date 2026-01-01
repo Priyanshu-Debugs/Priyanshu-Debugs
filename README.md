@@ -22,7 +22,9 @@
 
 ### 👨‍💻 About
 
-<img align="right" src="./Tony.gif" width="180"/>
+<img align="right" src="./Tony.gif" width="280" alt="Tony Stark"/>
+
+> *"Sometimes you gotta run before you can walk."* — Tony Stark
 
 I'm an **Engineer** from **Ahmedabad, India** passionate about building intelligent systems that solve real-world problems.
 
