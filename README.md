@@ -5,7 +5,7 @@
 
 # Priyanshu Patel
 
-**`Digital Craftsman (Engineer / AI Builder / Cloud Architect)`**
+**`Digital Craftsman`**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshu-patel-codes"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
@@ -37,18 +37,32 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
 
 ---
 
-### 🧰 Languages & Tools
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,react&theme=dark" height="48" alt="Languages"/>
-  <br/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,mysql&theme=dark" height="48" alt="Languages"/>
+</p>
+
+---
+
+### 📚 Libraries & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="React.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
-  <br/>
+</p>
+
+---
+
+### 🧰 Tools
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,vscode,notion,supabase,discord&theme=dark" height="48" alt="Tools"/>
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/>
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Cisco Packet Tracer"/>
 </p>
 
 ---
