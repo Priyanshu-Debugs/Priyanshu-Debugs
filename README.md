@@ -8,10 +8,10 @@
 **`Digital Craftsman`**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-patel-codes"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://x.com/HttpsPriyanshu"><img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.kaggle.com/priyanshudebugs"><img src="https://img.shields.io/badge/-Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/></a>
-  <a href="mailto:priyanshubpatel@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/priyanshu-patel-codes"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="36" alt="LinkedIn"/></a>
+  <a href="https://x.com/HttpsPriyanshu"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="36" alt="X"/></a>
+  <a href="https://www.kaggle.com/priyanshudebugs"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="36" height="36" alt="Kaggle"/></a>
+  <a href="mailto:priyanshubpatel@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="36" alt="Email"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Priyanshu-Debugs&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -24,12 +24,11 @@
 
 <img align="right" src="./Tony.gif" width="280" alt="Tony Stark"/>
 
-> *"Sometimes you gotta run before you can walk."* — Tony Stark
 
-I'm an **Engineer** from **Ahmedabad, India** passionate about building intelligent systems that solve real-world problems.
+I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwakarma Government Engineering College** Ahmedabad, Gujarat, India passionate about building intelligent systems that solve real-world problems.
 
 - 🔭 Building **[AgenticPilot](https://github.com/Priyanshu-Debugs/AgenticPilot)** — AI Automation Platform
-- 🧠 Deep into **Machine Learning**, **Deep Learning** & **Cloud Computing**  
+- 🧠 Exploring **Machine Learning**, **Deep Learning** & **Cloud Computing**  
 - 💡 I believe in learning by building
 - ⚡ Fun fact: I would tell you a joke about UDP, but you might not get it.
 
@@ -37,7 +36,7 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
 
 ---
 
-### 💻 Languages
+### Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,mysql&theme=dark" height="48" alt="Languages"/>
@@ -45,7 +44,7 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
 
 ---
 
-### 📚 Libraries & Frameworks
+### Libraries & Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="React.js"/>
@@ -57,7 +56,7 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
 
 ---
 
-### 🧰 Tools
+### Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,vscode,notion,supabase,discord&theme=dark" height="48" alt="Tools"/>
@@ -78,7 +77,7 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
 
 ---
 -->
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <div align="center">
   
@@ -88,7 +87,6 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
   <img alt="github-snake" src="https://raw.githubusercontent.com/Priyanshu-Debugs/Priyanshu-Debugs/output/github-snake.svg" />
 </picture>
 
-</div>
 
 ---
 
