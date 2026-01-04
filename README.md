@@ -40,9 +40,15 @@ I'm an **Engineer** from **Ahmedabad, India** passionate about building intellig
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,html,css,react&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,react&theme=dark" height="48" alt="Languages"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,aws,gcp,docker,git,vscode,notion&theme=dark" alt="Tools"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,vscode,notion,supabase,discord&theme=dark" height="48" alt="Tools"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/>
 </p>
 
 ---
