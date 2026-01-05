@@ -59,7 +59,7 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 ### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,vscode,notion,supabase,discord&theme=dark" height="48" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=windows,vscode,github,git,discord,aws,gcp,vercel,anaconda,replit,supabase,notion,docker&theme=dark" height="48" alt="Tools"/>
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/>
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Cisco Packet Tracer"/>
 </p>
