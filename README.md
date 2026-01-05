@@ -22,22 +22,17 @@
 
 ### 👨‍💻 About
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>I'm an <strong>Undergrad</strong> Pursuing B.E. in <strong>Computer Engineering</strong> from <strong>Vishwakarma Government Engineering College</strong> Ahmedabad, Gujarat, India passionate about building intelligent systems that solve real-world problems.</p>
-      <ul>
-        <li>🔭 Building <strong><a href="https://github.com/Priyanshu-Debugs/AgenticPilot">AgenticPilot</a></strong> — AI Automation Platform</li>
-        <li>🧠 Exploring <strong>Machine Learning</strong>, <strong>Deep Learning</strong> & <strong>Cloud Computing</strong></li>
-        <li>💡 I believe in learning by building</li>
-        <li>⚡ Fun fact: I would tell you a joke about UDP, but you might not get it.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="center">
-      <img src="./Tony.gif" width="280" alt="Tony Stark"/>
-    </td>
-  </tr>
-</table>
+<img align="right" src="./Tony.gif" width="280" alt="Tony Stark"/>
+
+
+I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwakarma Government Engineering College** Ahmedabad, Gujarat, India passionate about building intelligent systems that solve real-world problems.
+
+- 🔭 Building **[AgenticPilot](https://github.com/Priyanshu-Debugs/AgenticPilot)** — AI Automation Platform
+- 🧠 Exploring **Machine Learning**, **Deep Learning** & **Cloud Computing**  
+- 💡 I believe in learning by building
+- ⚡ Fun fact: I would tell you a joke about UDP, but you might not get it.
+
+<br clear="right"/>
 
 ---
 
