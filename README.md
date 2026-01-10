@@ -32,6 +32,14 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 - 💡 I believe in learning by building
 - ⚡ Fun fact: I would tell you a joke about UDP, but you might not get it.
 
+
+<div align="center">
+  <h3>
+    <i>"A Jack of all Trades is a Master of None,<br>but oftentimes Better than a Master of One."</i>
+  </h3>
+</div>
+
+
 <br clear="right"/>
 
 ---
@@ -94,6 +102,6 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
   
   **"The only way to do great work is to love what you do."**
   
-  <sub>📍 Ahmedabad, India</sub>
+  <sub>Stay Curious and Never Settle</sub>
   
 </div>
