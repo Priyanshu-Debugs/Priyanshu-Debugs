@@ -27,27 +27,20 @@
 
 I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwakarma Government Engineering College** Ahmedabad, Gujarat, India passionate about building intelligent systems that solve real-world problems.
 
-- 🔭 Building **[AgenticPilot](https://github.com/Priyanshu-Debugs/AgenticPilot)** — AI Automation Platform
-- 🧠 Exploring **Machine Learning**, **Deep Learning** & **Cloud Computing**  
-- 💡 I believe in learning by building
-- ⚡ Fun fact: I would tell you a joke about UDP, but you might not get it.
+- Building **[AgenticPilot](https://github.com/Priyanshu-Debugs/AgenticPilot)** — AI Automation Platform
+- Exploring **Machine Learning**, **Deep Learning** & **Cloud Computing**  
+- I believe in learning by building
+- Fun fact: I would tell you a joke about UDP, but you might not get it.
 
 <br clear="right"/>
 
 ---
 
-<div align="center">
-  <h3>
-    <i>"A Jack of all Trades is a Master of None,<br>but oftentimes Better than a Master of One."</i>
-  </h3>
-</div>
-
----
 
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,mysql&theme=dark" height="48" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,mysql,markdown&theme=dark" height="48" alt="Languages"/>
 </p>
 
 ---
@@ -55,11 +48,13 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 ### Libraries & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="React.js"/>
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="48" alt="Scikit-Learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="React.js"/>
+
 </p>
 
 ---
@@ -69,7 +64,6 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,vscode,github,git,discord,aws,gcp,vercel,anaconda,replit,supabase,notion,docker&theme=dark" height="48" alt="Tools"/>
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/>
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Cisco Packet Tracer"/>
 </p>
 
 ---
@@ -85,7 +79,7 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 
 ---
 -->
-### Contribution Graph
+### Contribution
 
 <div align="center">
   
@@ -96,11 +90,16 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 </picture>
 
 
+<div align="center">
+  
 ---
 
 <div align="center">
-  
-  **"The only way to do great work is to love what you do."**
+  <h3>
+    <i>"A Jack of all Trades is a Master of None,<br>but oftentimes Better than a Master of One."</i>
+  </h3>
+</div>
+
   
   <sub>Stay Curious and Never Settle</sub>
   
