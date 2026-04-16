@@ -77,7 +77,7 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshu-patel-codes"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="36" alt="LinkedIn"/></a>
   <a href="https://x.com/HttpsPriyanshu"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="36" alt="X"/></a>
-  <a href="https://www.kaggle.com/priyanshudebugs"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="36" height="36" alt="Kaggle"/></a>
+  <a href="https://www.kaggle.com/priyanshudebugs"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="36" alt="Kaggle"/></a>
   <a href="mailto:priyanshubpatel@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="36" alt="Email"/></a>
 </p>
 
