@@ -1,26 +1,18 @@
 <!-- Header -->
 <div align="center">
   
-![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
-# Priyanshu Patel
+![Header](image.png)
 
 **`Digital Craftsman`**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-patel-codes"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="36" alt="LinkedIn"/></a>
-  <a href="https://x.com/HttpsPriyanshu"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="36" alt="X"/></a>
-  <a href="https://www.kaggle.com/priyanshudebugs"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="36" height="36" alt="Kaggle"/></a>
-  <a href="mailto:priyanshubpatel@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="36" alt="Email"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Priyanshu-Debugs&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- 
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-Debugs&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/> -->
 
 </div>
 
 ---
 
-### 👨‍💻 About
+###  About
 
 <img align="right" src="./Tony.gif" width="280" alt="Tony Stark"/>
 
@@ -49,6 +41,7 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="48" alt="Scikit-Learn"/>
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
@@ -79,6 +72,17 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 
 ---
 -->
+
+### Connect Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-patel-codes"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="36" alt="LinkedIn"/></a>
+  <a href="https://x.com/HttpsPriyanshu"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="36" alt="X"/></a>
+  <a href="https://www.kaggle.com/priyanshudebugs"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="36" height="36" alt="Kaggle"/></a>
+  <a href="mailto:priyanshubpatel@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="36" alt="Email"/></a>
+</p>
+
+---
+
 ### Contribution
 
 <div align="center">
@@ -104,3 +108,5 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
   <sub>Stay Curious and Never Settle</sub>
   
 </div>
+
+
