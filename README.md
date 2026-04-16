@@ -42,10 +42,10 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="48" alt="Scikit-Learn"/>
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48" alt="Seaborn"/>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="React.js"/>
 
 </p>
@@ -56,7 +56,7 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,vscode,github,git,discord,aws,gcp,vercel,anaconda,replit,supabase,notion,docker&theme=dark" height="48" alt="Tools"/>
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n"/>
 </p>
 
 ---
