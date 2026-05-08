@@ -41,6 +41,8 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="48" alt="Scikit-Learn"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" alt="Tensorflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48" alt="Keras"/>
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
@@ -55,8 +57,7 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 ### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,vscode,github,git,discord,aws,gcp,vercel,anaconda,replit,supabase,notion,docker&theme=dark" height="48" alt="Tools"/>
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n"/>
+  <img src="https://skillicons.dev/icons?i=windows,vscode,github,git,discord,aws,gcp,vercel,anaconda,supabase,docker,notion,&theme=dark" height="48" alt="Tools"/>
 </p>
 
 ---
