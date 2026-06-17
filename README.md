@@ -14,15 +14,15 @@
 
 ###  About
 
-<img align="right" src="./Tony.gif" width="280" alt="Tony Stark"/>
+<img align="right" src="./Cool Github GIF.gif" width="450" alt="Debugging"/>
 
 
 I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwakarma Government Engineering College** Ahmedabad, Gujarat, India passionate about building intelligent systems that solve real-world problems.
 
+- I Turn Data into Intelligence
+- **Machine Learning**, **Deep Learning**, **Agentic AI**, **Cloud Computing** 
 - Building **[AgenticPilot](https://github.com/Priyanshu-Debugs/AgenticPilot)** — AI Automation Platform
-- Exploring **Machine Learning**, **Deep Learning** & **Cloud Computing**  
-- I believe in learning by building
-- Fun fact: I would tell you a joke about UDP, but you might not get it.
+- Visit me : **[Priyanshu-Debugs](https://priyanshu-debugs.vercel.app)** - Portfolio 
 
 <br clear="right"/>
 
@@ -41,6 +41,7 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="48" alt="Scikit-Learn"/>
+  <img src="langchain-seeklogo.svg" height="48" alt="langchain"/>
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" alt="Tensorflow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48" alt="Keras"/>
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="FastAPI"/>
