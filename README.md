@@ -41,7 +41,7 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="48" alt="Scikit-Learn"/>
-  <img src="langchain-seeklogo.svg" height="48" alt="langchain"/>
+  <img src="langchain-seeklogo.svg" width="48" alt="langchain"/>
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" alt="Tensorflow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48" alt="Keras"/>
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="FastAPI"/>
