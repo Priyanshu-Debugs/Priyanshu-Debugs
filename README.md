@@ -12,17 +12,16 @@
 
 ---
 
-###  About
+### About
 
 <img align="right" src="./Cool Github GIF.gif" width="450" alt="Debugging"/>
 
+I'm an **undergrad** pursuing my B.E. in **Computer Engineering** at **Vishwakarma Government Engineering College**, Ahmedabad, India — **Jack of all Trades Crafting Intelligent and Autonomous systems that solve real-world problems.**
 
-I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwakarma Government Engineering College** Ahmedabad, Gujarat, India passionate about building intelligent systems that solve real-world problems.
-
-- I Turn Data into Intelligence
-- **Machine Learning**, **Deep Learning**, **Agentic AI**, **Cloud Computing** 
-- Building **[AgenticPilot](https://github.com/Priyanshu-Debugs/AgenticPilot)** — AI Automation Platform
-- Visit me : **[Priyanshu-Debugs](https://priyanshu-debugs.vercel.app)** - Portfolio 
+- Building **[GitDecode](https://gitdecode.app)** — AI Codebase Intelligence
+- Building **[AgenticPilot](https:agenticpilot.vercel.app)** — AI Automation Platform
+- Specializing in **Generative AI**, **Agentic AI**, **Machine Learning**, **Deep Learning** and **Cloud Computing**
+- Explore my Portfolio: **[Priyanshu-Debugs](https://priyaanshu.vercel.app)**
 
 <br clear="right"/>
 
@@ -62,18 +61,6 @@ I'm an **Undergrad** Pursuing by B.E. in **Computer Engineering** from **Vishwak
 </p>
 
 ---
-<!--
-### 📊 GitHub Stats
-
-<div align="center">
-  
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Debugs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&ring_color=FFFFFF" alt="Stats"/>
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu-Debugs&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Streak"/>
-
-</div>
-
----
--->
 
 ### Connect Me
 <p align="center">
