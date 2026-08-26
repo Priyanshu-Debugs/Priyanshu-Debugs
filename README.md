@@ -19,7 +19,7 @@
 I'm an **undergrad** pursuing my B.E. in **Computer Engineering** at **Vishwakarma Government Engineering College**, Ahmedabad, India — **Jack of all Trades Crafting Intelligent and Autonomous systems that solve real-world problems.**
 
 - Building **[GitDecode](https://gitdecode.app)** — AI Codebase Intelligence
-- Building **[AgenticPilot](https:agenticpilot.vercel.app)** — AI Automation Platform
+- Building **[AgenticPilot](https://agenticpilot.vercel.app)** — AI Automation Platform
 - Specializing in **Generative AI**, **Agentic AI**, **Machine Learning**, **Deep Learning** and **Cloud Computing**
 - Explore my Portfolio: **[Priyanshu-Debugs](https://priyaanshu.vercel.app)**
 
