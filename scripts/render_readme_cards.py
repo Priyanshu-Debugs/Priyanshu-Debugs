@@ -291,7 +291,7 @@ def section_title(text, italic, theme):
 
 
 # ---- 4 · blue contribution graph -----------------------------------------------
-BLUE = [PAPER_DEEP, "#c8d3ff", "#94a8ff", "#6280ff", TECH, "#1a3be0"]
+BLUE = ["#cecec8", "#8fa8ff", "#6384ff", "#3b62f5", "#1f47e0", "#0e2eb8"]
 
 
 def level_for(c):
